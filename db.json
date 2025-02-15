@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "yousef",
+      "email": "yousofismail2004@gmail.com",
+      "password": "Yousef",
+      "createdAt": "2025-02-13T17:23:42.800Z"
+    }
+  ],
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Luxury Palace Hotel",
+      "description": "Experience ultimate luxury in our 5-star hotel with breathtaking city views.",
+      "location": "Downtown City Center",
+      "price": 300,
+      "rating": 4.8,
+      "images": [
+        "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+      ],
+      "availableRooms": 50
+    },
+    {
+      "id": 2,
+      "name": "Seaside Resort & Spa",
+      "description": "Relax in our beachfront resort featuring private beach access.",
+      "location": "Coastal Boulevard",
+      "price": 250,
+      "rating": 4.6,
+      "images": [
+        "https://images.unsplash.com/photo-1571896349842-33c89424de2d"
+      ],
+      "availableRooms": 40
+    },
+    {
+      "id": 3,
+      "name": "Mountain View Lodge",
+      "description": "A cozy mountain retreat with stunning views.",
+      "location": "Mountain Range",
+      "price": 180,
+      "rating": 4.5,
+      "images": [
+        "https://images.unsplash.com/photo-1517320964276-a002fa203177"
+      ],
+      "availableRooms": 30
+    },
+    {
+      "id": 4,
+      "name": "Business Elite Hotel",
+      "description": "Perfect for business travelers with modern facilities.",
+      "location": "Business District",
+      "price": 220,
+      "rating": 4.7,
+      "images": [
+        "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa"
+      ],
+      "availableRooms": 45
+    }
+  ],
+  "bookings": []
+}
